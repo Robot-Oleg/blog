@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on opuntia.site</title>
+    <link>http://opuntia.site/tags/</link>
+    <description>Recent content in Tags on opuntia.site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://opuntia.site/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

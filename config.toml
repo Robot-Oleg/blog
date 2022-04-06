@@ -1,0 +1,37 @@
+baseURL = 'http://opuntia.site/'
+languageCode = 'en-us'
+title = 'opuntia.site'
+theme = 'smol'
+
+# Parameters
+[params]
+    subtitle = "Opuntia's blog"
+    dateFmt = "02.01.2006 15:04"
+    images = ["cover.png"]
+
+
+# Header
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1 
+
+# Footer
+    [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/Robot-Oleg"
+        weight = 1 
+
+    [[menu.footer]]
+        name = "Gitlab"
+        url = "https://gitlab.com/opuntia"
+        weight = 2
+
+    [[menu.footer]]
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/oleg-kozel-895a62184/"
+        weight = 3
+
+
