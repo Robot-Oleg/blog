@@ -14,4 +14,8 @@ Was writing labs in univercity on C, C++, C#, Python.
 Also know Go on a basic level.
 
 My projects:
+- [automated home server deployment with Ansible](https://github.com/Robot-Oleg/nvidia_jetson_home_server)
+- [this web site deployes with Terraform on AWS](https://www.opuntia.site/)
 - [music_compare gem](https://github.com/Robot-Oleg/music_compare/)
+- [labs on C#](https://gitlab.com/opuntia/csharp)
+- [labs on C](https://github.com/PashaKlybik/prog-053504/tree/main/Robot-Oleg)
